@@ -8,7 +8,7 @@
 
 ## 📊 Live Preview
 
-![Dashboard Preview](preview.png)
+🔗 **[View Live Dashboard](https://hellomdmstrategy-byte.github.io/sp500-equity-dashboard)**
 
 > Dark-themed, Power BI / Tableau-inspired layout with animated charts, interactive stock selector, correlation matrix, and a full watchlist table.
 
