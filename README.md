@@ -257,13 +257,13 @@ Monthly returns (not prices) remove the trend bias that inflates correlation bet
 
 ## 👩‍💼 About This Project
 
-Built by **Marcia Davis** as part of a marketing analytics portfolio demonstrating:
+Built by **Marcia Durniat** as part of a marketing analytics portfolio demonstrating:
 - Data wrangling and statistical analysis (Python/pandas)
 - Financial data literacy — returns, normalization, correlation, volume analysis
 - Production-grade data visualization without a BI tool
 - Clean, readable code structure for collaborative or client-facing contexts
 
-**LinkedIn:** [linkedin.com/in/marciadavis](https://linkedin.com/in/marciadavis)  
+**LinkedIn:** [linkedin.com/in/marciadurniat](https://linkedin.com/in/marciadurniat)  
 **Portfolio:** [mdmstrategy.com](https://mdmstrategy.com)
 
 ---
